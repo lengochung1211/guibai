@@ -1,0 +1,7 @@
+C:\Users\inhoa\OneDrive\Desktop\Bai_tap_boxung\Bai_tap_boxung2\bin\Debug\Bai_tap_boxung2.exe.config
+C:\Users\inhoa\OneDrive\Desktop\Bai_tap_boxung\Bai_tap_boxung2\bin\Debug\Bai_tap_boxung2.exe
+C:\Users\inhoa\OneDrive\Desktop\Bai_tap_boxung\Bai_tap_boxung2\bin\Debug\Bai_tap_boxung2.pdb
+C:\Users\inhoa\OneDrive\Desktop\Bai_tap_boxung\Bai_tap_boxung2\obj\Debug\Bai_tap_boxung2.csprojAssemblyReference.cache
+C:\Users\inhoa\OneDrive\Desktop\Bai_tap_boxung\Bai_tap_boxung2\obj\Debug\Bai_tap_boxung2.csproj.CoreCompileInputs.cache
+C:\Users\inhoa\OneDrive\Desktop\Bai_tap_boxung\Bai_tap_boxung2\obj\Debug\Bai_tap_boxung2.exe
+C:\Users\inhoa\OneDrive\Desktop\Bai_tap_boxung\Bai_tap_boxung2\obj\Debug\Bai_tap_boxung2.pdb
